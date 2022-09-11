@@ -1,0 +1,33 @@
+{
+  "name": "neobot-md",
+  "version": "0.0.1",
+  "description": "Simple whatsapp bot with multi device.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Lexxy Official",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "@adiwajshing/keyed-db": "^0.2.4",     
+    "cfonts": "^2.10.0",    
+    "colors": "^1.4.0",  
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "figlet":"^1.5.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "parse-ms":"^3.0.0",
+    "clui":"^0.3.6",
+    "javascript-obfuscator": "^4.0.0",
+    "jimp": "^0.16.1",
+    "hikki-me": "^2.0.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "2.6.1",
+    "node-webpmux": "^3.1.1",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2"
+  }
+}
